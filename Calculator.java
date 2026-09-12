@@ -1,3 +1,4 @@
+/*this program will show a demo on simple calcultaor*/
 /*THIs program will show a DEMO ON SIMPLE CALCULATOR*/
 public class Calculator {
     public static void main(String[] args) {
